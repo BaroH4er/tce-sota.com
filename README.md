@@ -12,16 +12,16 @@ My name is Evgeniy Parshin. I have no higher education, certificates or complete
 
 To develop a web application, I will use the MEAN stack.
 
->MongoDB
->Express.js
->Angular.js
->Node.js
+>MongoDB; 
+>Express.js; 
+>Angular.js; 
+>Node.js; 
 
 To test the web application, I will use:
 
->Mocha
->Chai
->Selenium
+>Mocha; 
+>Chai; 
+>Selenium; 
 
 All tasks from the "Issues" tab will be in Russian, thank you for your understanding.
 
